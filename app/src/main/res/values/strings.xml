@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Amit Training</string>
+    <string name="delivering_to">Delivering to</string>
+    <string name="talabat_mart">Talabat Mart</string>
+    <string name="deliverd_in_20_mins">Deliverd in 20 mins</string>
+</resources>
